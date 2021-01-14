@@ -6,8 +6,14 @@
 - [x] Multiple Relationship between Tables
 - [x] Bottom Navigation Bar Usage
 
+-----------
+## Database Diagram
+
+![](https://github.com/iremcelikbilek/Sqflite-with-Flutter/blob/master/project_list_app/github/Database%20Diagram.png)
 
 ------------
+
+## Ekran Görüntüleri
 
 ![](https://github.com/iremcelikbilek/Sqflite-with-Flutter/blob/master/project_list_app/github/ss-1.png)
 ![](https://github.com/iremcelikbilek/Sqflite-with-Flutter/blob/master/project_list_app/github/ss-2.png)
